@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(78, 74, 74);
+    font-size: small;
+font-weight:600;
+font-family: 'Times New Roman', Times, serif;
+}
+
+
+a{
+    color: black;
+    text-decoration: none;
+    
+}
+a:hover {
+    text-decoration: underline;
+}
+
+.avatar {
+    border-radius: 28px;
+    width: 200px;
+    box-shadow: 4px 4px 12px grey;
+    
+    
+}
+
+.info p {
+    color: black;
+    margin-bottom: 60px;
+    font-style: italic;
+    display: flex;
+}
+
+.info {
+    margin-bottom: 20px
+    
+}
+
+.info1 {
+    margin-left:  20px;
+}
+
+.Container {
+   max-width: 750px;
+   margin: auto;
+
+}
+
+.model div {
+    float: left;
+    background: black;
+    width: 25%;
+    height: 200px;
+
+}
+
+.bg-yellow{
+background: #fff9dc;
+
+}
+.bg-green{
+background: #e5ffe7;
+}
+
+.bg-red{
+background: #ffe5e5;
+}
+
+.card {
+    border-radius: 5px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+}
+
+.formgr label {
+    display: block;
+
+
+}
+
+.formgr input {
+    width: 100%;
+    
+}
